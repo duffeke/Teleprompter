@@ -1,0 +1,5 @@
+{
+  "name": "Teleprompter Pro",
+  "description": "A professional teleprompter app with mirror mode, file import (PDF, DOCX, TXT), and customizable scroll settings.",
+  "requestFramePermissions": []
+}
